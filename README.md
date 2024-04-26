@@ -1,6 +1,8 @@
 # noun_classification
-Team Project with Dr Long Chen and Deniz
+Prepare data for cocorpus, (verb,noun) and (adj,noun) pairs are classified with "xlm-roberta-base" models https://huggingface.co/FacebookAI/xlm-roberta-base
+raw data come from "bookcorpus" https://huggingface.co/datasets/bookcorpus
 
+### requirement
 pip install -r requirement.txt
 
 ### data_extraction.py
